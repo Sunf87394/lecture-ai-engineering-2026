@@ -1,0 +1,10 @@
+{"id": "01", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "pass", "unsure_flag": false, "note": ""}
+{"id": "02", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "pass", "unsure_flag": true, "note": ""}
+{"id": "03", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "pass", "unsure_flag": true, "note": "期待するふるまいは「ローラ」という入力を前提としており、評価ケースの設定に不整合がある。AIも確認質問をせずLoRAを説明している。"}
+{"id": "04", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "pass", "unsure_flag": false, "note": ""}
+{"id": "05", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "pass", "unsure_flag": true, "note": "用語集にRAGがない旨は回答している。一般説明の可否は評価基準で未定義。参照欄に表示エラーがあり、根拠の完全な照合は保留。"}
+{"id": "06", "grounding": "pass", "scope": "pass", "hint": "fail", "clarity": "pass", "lecture_mark": "fail", "unsure_flag": false, "note": ""}
+{"id": "07", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "pass", "unsure_flag": false, "note": ""}
+{"id": "08", "grounding": "fail", "scope": "fail", "hint": "pass", "clarity": "pass", "lecture_mark": "pass", "unsure_flag": false, "note": ""}
+{"id": "09", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "pass", "unsure_flag": true, "note": "内容不明の入力に対して確認質問を返している。講座外として拒否すべきか、確認質問を許容するか、基準の明確化が必要。"}
+{"id": "10", "grounding": "pass", "scope": "pass", "hint": "pass", "clarity": "pass", "lecture_mark": "pass", "unsure_flag": true, "note": "未提供の第14回について回答を控えているが、「追加予定」という根拠不明の説明がある。未提供回の扱いを評価基準で明確化する必要あり。"}
